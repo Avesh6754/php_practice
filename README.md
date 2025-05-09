@@ -30,7 +30,7 @@ This is a simple PHP-based web application that allows users to perform basic **
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-   ``
+
 
 
 2. Import the database SQL file into your MySQL server.
@@ -40,6 +40,8 @@ This is a simple PHP-based web application that allows users to perform basic **
 
 <p>
 <img src="https://github.com/user-attachments/assets/614276d7-3fc5-4b48-94cb-b87a9ed39a29" Height="35%">
+   <img src="https://github.com/user-attachments/assets/552c4c75-d113-4ad7-b4c4-ba94e777e9d2" Height="35%">
+   <img src="https://github.com/user-attachments/assets/15b551fc-d771-490a-984f-c19ec1f43205" Height="35%">
 </p>
 
 https://github.com/user-attachments/assets/1a5b828d-2cb9-455e-b6fc-999f55f4fabb
